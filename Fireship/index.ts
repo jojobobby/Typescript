@@ -1,6 +1,11 @@
-//https://www.youtube.com/watch?v=ahCwqrYpIuM
+/* RESOURCES USED:
 
-//variable types
+https://www.youtube.com/watch?v=ahCwqrYpIuM - TypeScript - The Basics
+https://www.youtube.com/watch?v=zQnBQ4tB3ZA - TypeScript in 100 Seconds
+
+variable types
+
+*/
 let lucky;
 
 type Style = 'bold' | 'italic';
